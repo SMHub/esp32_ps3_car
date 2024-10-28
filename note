@@ -1,5 +1,9 @@
 Board
 Pinout
 # L293
-D5 - IN1A
-D15 - IN1B
+D26 - EN_1
+D25 - IN1A
+D13 - IN1B
+D4 - EN_2
+D5 - IN2B
+D15 - IN2B
